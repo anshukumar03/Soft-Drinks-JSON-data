@@ -1,7 +1,7 @@
 [
   { "name": "Coke", "price": "$2" },
-  { "name": "Pepso", "price": "$1" },
-  { "name": "Thumbsup", "price": "$3" },
-  { "name": "Sprint", "price": "$6" },
-  { "name": "Mirind", "price": "$4" }
+  { "name": "Pepsi", "price": "$1" },
+  { "name": "Thumbs up", "price": "$3" },
+  { "name": "Sprite", "price": "$6" },
+  { "name": "Mirinda", "price": "$4" }
 ]
